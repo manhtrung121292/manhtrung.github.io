@@ -75,5 +75,5 @@ Ich dokumentiere hier ausgewählte Projekte und Ergebnisse aus meiner Arbeit.
 
 ## Kontakt
 - E-Mail: <manhtrung121292@gmail.com>  
-- LinkedIn: <www.linkedin.com/in/trung-nguyen-a5133a37a>  
+- LinkedIn: https://www.linkedin.com/in/trung-nguyen-a5133a37a/  
 - GitHub: <https://github.com/manhtrung121292>
