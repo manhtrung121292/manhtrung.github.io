@@ -1,0 +1,5 @@
+title: "Manh Trung Nguyen | IT-Administrator"
+description: "Netzwerk, Virtualisierung (VMware/Hyper-V), Citrix, PowerShell, VoIP, Azure – Portfolio & Projekte"
+theme: minima
+plugins:
+  - jekyll-seo-tag
